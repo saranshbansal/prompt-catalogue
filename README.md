@@ -1,4 +1,4 @@
-# 🎪 Prompt Catalogue — Unhinged Edition
+# 🎪 Prompt Catalogue
 
 ![shields](https://img.shields.io/badge/mood-insane-brightgreen) ![format](https://img.shields.io/badge/format-markdown-blue) ![license](https://img.shields.io/badge/license-MIT-orange)
 
