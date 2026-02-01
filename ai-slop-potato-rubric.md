@@ -1,4 +1,4 @@
-# AI-Generated Slop Rubric (Reviewer Prompt)
+# AI-Generated Slop Detector
 
 > Purpose: A repeatable rubric for estimating the percentage of a given text that is “AI-generated slop.”
 
@@ -246,12 +246,3 @@ Text: "I was frustrated during the outage; we need better instrumentation and cl
 4. Compute percentage with the formula and report underlying numbers. ✅
 5. State verdict, list signals, and include a giveaway line (or say none).
 6. Report dimensions used and max possible score. ✅
-
----
-
-## Short Note on Scope
-This rubric focuses on detecting *abstraction-as-judgment*, not grammatical quality or tone. It’s intended for reviewer consistency and auditability. If used at scale, include periodic calibration and a small labeled set for retraining reviewers.
-
----
-
-*End of rubric.*
